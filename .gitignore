@@ -16,6 +16,7 @@ neon/version.py
 .styleenv
 .coverage
 build
+dist
 *.gz
 generated
 *.ropeproject
